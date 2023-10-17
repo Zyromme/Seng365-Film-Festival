@@ -1,0 +1,7 @@
+.FilmCard {
+    transition: all 120s;
+}
+
+.FilmCard :hover {
+    transform: scale(1.1);
+}
